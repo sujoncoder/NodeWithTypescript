@@ -10,5 +10,4 @@ app.get('/test', (req: Request, res: Response) => {
     res.send('Hello World! i am ...');
 });
 
-
 export default app;
